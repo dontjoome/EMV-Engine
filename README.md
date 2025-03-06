@@ -1,6 +1,6 @@
 # EMV-Engine (REFramework-Scripts)
 
-This is a repository of RE Engine Lua script mods made by [@alphazolam](https://github.com/alphazolam), for use with [praydog](https://github.com/praydog) and [Cursey](https://github.com/cursey)'s "REFramework"   
+This is a repository of RE Engine Lua script mods made by [alphazolam](https://github.com/alphazolam), for use with [praydog](https://github.com/praydog) and [Cursey](https://github.com/cursey)'s "REFramework"   
 ### Supported Games
 * Devil May Cry 5
 * Resident Evil 7
